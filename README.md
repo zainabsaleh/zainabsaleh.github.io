@@ -22,4 +22,5 @@
 <p>Porter, Dorothy B. “The Organized Educational Activities of Negro Literary Societies, 1828-1846.” <em>The Journal of Negro Education</em>, vol. 5, no. 4, 1936, https://www.jstor.org/stable/2292029. Accessed 10 Feb. 2020.</p>
 
 ### About Zainab Saleh
+![library](Picture1.png)
 Zainab Saleh is a first year M.A. student at the University of Nebraska-Lincoln in Literary and Cultural Studies. Zainab specifically looks at the implications of colonialism in postcolonial Caribbean literature. She currently serves as a Graduate Research Assistant at the Walt Whitman Archive. She also desperately wants a corgi. 
