@@ -3,8 +3,7 @@ WELCOME TO MY ADVANCED TOPICS IN DIGITAL HUMANITIES PROJECT!
 ![library](books-768125.jpg)
 
 
-
-My name is Zainab Saleh and I am a first year M.A. student at the University of Nebraska-Lincoln. This semester, I decided to take this class to get more insight into DH, seeing as I do not have much prior experience in the DH world. For my final project, I decided to upload a paper that I wrote this semester for class. 
+My name is Zainab Saleh and I am a first year M.A. student at the University of Nebraska-Lincoln. 
 
 <h1>Female Literary Association of Philadelphia</h1>
 <p>The Female Literary Association of Philadelphia was formed in 1831, consisting of approximately twenty members who believed they “had a duty to develop their God-given intellectual powers” (Lindhorst 263). While the majority of African American literary societies were formed in response to the tyrannical and immoral oppression against black individuals, the Female Literary Association of Philadelphia wanted to promote their moral and intellectual development, specifically the development of these skills in regards to African American women and girls. Led by Sarah Mapps Douglass, a prominent abolitionist and educator in Philadelphia, these twenty women worked to oppose the common limits placed upon African American women, which was participation in public life as well as literary associations.</p>
