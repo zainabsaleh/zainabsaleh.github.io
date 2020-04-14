@@ -1,5 +1,9 @@
 WELCOME TO MY ADVANCED TOPICS IN DIGITAL HUMANITIES PROJECT!
 
+![library](books-768125.jpg)
+
+
+
 My name is Zainab Saleh and I am a first year M.A. student at the University of Nebraska-Lincoln. This semester, I decided to take this class to get more insight into DH, seeing as I do not have much prior experience in the DH world. For my final project, I decided to upload a paper that I wrote this semester for class. 
 
 <h1>Female Literary Association of Philadelphia</h1>
