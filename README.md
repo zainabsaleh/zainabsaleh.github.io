@@ -23,4 +23,5 @@
 
 ### About Zainab Saleh
 ![library](Picture1.png)
+
 Zainab Saleh is a first year M.A. student at the University of Nebraska-Lincoln in Literary and Cultural Studies. Zainab specifically looks at the implications of colonialism in postcolonial Caribbean literature. She currently serves as a Graduate Research Assistant at the Walt Whitman Archive. She also desperately wants a corgi. 
