@@ -1,8 +1,6 @@
 ## WELCOME TO ADVANCED TOPICS IN DIGITAL HUMANITIES: THE FINAL PROJECT
 
 
-My name is Zainab Saleh and I am a first year M.A. student at the University of Nebraska-Lincoln. 
-
 ![library](books-768125.jpg)
 
 
@@ -22,3 +20,6 @@ My name is Zainab Saleh and I am a first year M.A. student at the University of 
 <p>“The Female Literary Society.” <em>The Female Literary Society</em>, 1 Jan. 1970, quakeractivism.blogspot.com/2016/05/the-female-literary-society.html. Accessed 10 Feb. 2020.</p>
 <p>Johnson-Houston, Debbie, et. Al. “A Brief History of Library Service to African Americans.” <em>American Library Association</em>, vol. 35, no. 2, 2004, https://www.jstor.org/stable/25649066. Accessed 10 Feb. 2020.</p>
 <p>Porter, Dorothy B. “The Organized Educational Activities of Negro Literary Societies, 1828-1846.” <em>The Journal of Negro Education</em>, vol. 5, no. 4, 1936, https://www.jstor.org/stable/2292029. Accessed 10 Feb. 2020.</p>
+
+### About Zainab Saleh
+Zainab Saleh is a first year M.A. student at the University of Nebraska-Lincoln in Literary and Cultural Studies. Zainab specifically looks at the implications of colonialism in postcolonial Caribbean literature. She currently serves as a Graduate Research Assistant at the Walt Whitman Archive. She also desperately wants a corgi. 
